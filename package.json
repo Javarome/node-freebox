@@ -1,5 +1,5 @@
 {
-  "name": "freebox",
+  "name": "ts-freebox",
   "version": "0.1.0",
   "description": "Freebox node API",
   "main": "index.js",
